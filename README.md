@@ -7,3 +7,4 @@ This is simple project for proof of concept continous testing with travis and ro
 3. Travis 
 4. Android SDK 
 
+Cheers!!
