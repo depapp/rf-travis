@@ -8,4 +8,5 @@ This is simple project for proof of concept continous testing with travis and ro
 4. Android SDK 
 
 Cheers!!
+
 [![Build Status](https://travis-ci.org/depapp/rf-travis.svg?branch=master)](https://travis-ci.org/depapp/rf-travis)
